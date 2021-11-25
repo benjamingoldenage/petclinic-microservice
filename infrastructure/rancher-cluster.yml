@@ -1,5 +1,9 @@
 nodes:
+<<<<<<< HEAD
   - address: 44.192.78.250
+=======
+  - address: 3.238.233.156
+>>>>>>> release
     internal_address: 172.31.73.123
     user: ubuntu
     role: [controlplane, worker, etcd]
